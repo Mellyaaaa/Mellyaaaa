@@ -14,8 +14,8 @@
 ## :sassy_woman:  About me
 - :school: I am a `Junior` at Faculty of Computers & Informatics at Home :)
 - :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Codeforces`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
+- :computer: I am a early programmer at `HTML`
+- :student: I’m currently learning: `Computer Science` and `Web Developing`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`
 - :nerd_face: Always `learning new things`
 
