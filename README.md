@@ -28,7 +28,7 @@
 
 <p align="center">
   &emsp;
-    <a href="#"><img alt = "HTML" src="https://cdn.discordapp.com/attachments/1126639173353349220/1127402357328707604/HTML5_logo_and_wordmark.svg.png" width="200px"/></a>	
+    <a href="#"><img alt = "HTML" src="https://cdn.discordapp.com/attachments/1126639173353349220/1127402357328707604/HTML5_logo_and_wordmark.svg.png" width="170px"/></a>	
   &emsp;
     <a href="#"><img alt = "CSS" src="https://cdn.discordapp.com/attachments/1126639173353349220/1127402847970009088/csspng-removebg-preview.png" width="200px"/></a>
   &emsp;
