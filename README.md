@@ -22,7 +22,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaaMellyaaaa&theme=algolia" alt="Mellya" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mellyaaaa&theme=algolia" alt="Mellya" /></p>
 
 ## 🛠️ My Skills
 
